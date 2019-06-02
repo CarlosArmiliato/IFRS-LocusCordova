@@ -1,0 +1,27 @@
+{
+    "name": "Locus1",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+        "com.unarin.cordova.beacon": "https://github.com/petermetz/cordova-plugin-ibeacon.git",
+        "cordova-android": "5.2.1",
+        "cordova-browser": "^4.1.0",
+        "cordova-ios": "4.2.0",
+        "cordova-plugin-device": "1.1.4",
+        "cordova-plugin-whitelist": "1",
+        "cordova-windows": "4.4.2"
+    },
+    "cordova": {
+        "platforms": [
+            "android",
+            "browser",
+            "ios",
+            "windows"
+        ],
+        "plugins": {
+            "com.unarin.cordova.beacon": {},
+            "cordova-plugin-device": {},
+            "cordova-plugin-whitelist": {}
+        }
+    }
+}
