@@ -4,7 +4,7 @@
     "private": true,
     "dependencies": {
         "com.unarin.cordova.beacon": "https://github.com/petermetz/cordova-plugin-ibeacon.git",
-        "cordova-android": "5.2.1",
+        "cordova-android": "9.0.0",
         "cordova-browser": "^4.1.0",
         "cordova-ios": "4.2.0",
         "cordova-plugin-device": "1.1.4",
